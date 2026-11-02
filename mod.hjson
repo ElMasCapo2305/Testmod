@@ -1,0 +1,8 @@
+name: "testmod"
+displayName: "Test Mod"
+author: "elmascapo"
+description: "Un mod de prueba que añade un nuevo mineral y una torreta de alto daño."
+version: "1.0.0"
+minGameVersion: "146"
+hidden: true
+  
