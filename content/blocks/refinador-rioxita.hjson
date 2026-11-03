@@ -5,7 +5,7 @@ category: crafting
 size: 3
 hasPower: true
 hasItems: true
-craftTime: 72
+craftTime: 50
 updateEffect: smeltsmoke
 
 requirements: [
