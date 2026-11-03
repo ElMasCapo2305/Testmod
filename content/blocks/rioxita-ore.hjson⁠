@@ -6,4 +6,5 @@ variants: 3
 oreScale: 24
 oreThreshold: 0.81
 alwaysUnlocked: true
+playerUnmineable: false
 category: environment
