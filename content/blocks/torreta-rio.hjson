@@ -3,7 +3,7 @@ name: Torreta Rio
 description: Una torreta pesada de 3x3 que utiliza Rioxita para infligir una cantidad masiva de daño.
 size: 3
 health: 1500
-reload: 15
+reload: 5
 range: 240
 inaccuracy: 0.5
 rotateSpeed: 1
