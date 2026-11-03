@@ -10,8 +10,8 @@ rotateSpeed: 9
 
 requirements: [
   copper/100
-  lead/120
-  titanium/80
+  lead/100
+  titanium/60
 ]
 buildCost: 1
 
