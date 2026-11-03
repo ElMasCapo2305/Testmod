@@ -5,7 +5,7 @@ category: crafting
 size: 2
 hasPower: true
 hasItems: true
-craftTime: 60
+craftTime: 90
 updateEffect: smeltsmoke
 
 requirements: [
@@ -16,16 +16,16 @@ requirements: [
 consumes: {
   power: 0.8
   items: [
-    copper/2
-    lead/2
+    copper/3
+    lead/3
   ]
 }
 
-outputItem: testmod-rioxita/2
+outputItem: testmod-rioxita/1
 
 research: {
-  parent: core-shard
+  parent: graphite-press
   requirements: [
-    copper/1000
+    copper/1500
   ]
 }
