@@ -1,8 +1,0 @@
-type: GenericCrafter
-size: 2
-category: crafting
-requirements: [
-  copper/10
-]
-craftTime: 60
-outputItem: copper/1
