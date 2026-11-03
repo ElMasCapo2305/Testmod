@@ -4,30 +4,30 @@ description: Funde componentes básicos para sintetizar Rioxita en bruto.
 size: 2
 hasPower: true
 hasItems: true
-craftTime: 12
+craftTime: 40
 updateEffect: smeltsmoke
 
 consumes: {
   power: 0.8
   items: {
     items: [
-      copper/2
+      copper/3
       lead/2
     ]
   }
 }
 
 requirements: [
-  copper/60
-  lead/60
+  copper/50
+  lead/50
 ]
 
 category: crafting
 research: {
   parent: core-shard
   requirements: [
-    copper/1000
+    copper/200
   ]
 }
 
-outputItem: testmod-rioxita/2
+outputItem: testmod-rioxita/1
