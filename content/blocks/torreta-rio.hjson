@@ -9,9 +9,9 @@ inaccuracy: 1
 rotateSpeed: 9
 
 requirements: [
-  copper/150
-  lead/170
-  titanium/110
+  copper/100
+  lead/120
+  titanium/80
 ]
 buildCost: 1
 
