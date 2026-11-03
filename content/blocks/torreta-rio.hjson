@@ -29,6 +29,18 @@ ammoTypes: {
     shootEffect: shootBig
     smokeEffect: shootBigSmoke
   }
+   
+   titanium: {
+   type: BasicBulletType
+   speed: 9
+   damage: 80
+   lifetime: 28
+   width: 10
+   heigth:16
+   frontcolor: ffffff
+   backcolor: ffffaa
+   status: slow
+  }
 }
 
 research: {
