@@ -10,8 +10,9 @@ rotateSpeed: 9
 
 requirements: [
   copper/100
-  lead/100
-  titanium/60
+  lead/60
+  titanium/50
+  testmod-rioxita/40
 ]
 buildCost: 1
 
@@ -19,7 +20,7 @@ ammoTypes: {
   testmod-rioxita: {
     type: BasicBulletType
     speed: 10
-    damage: 250
+    damage: 160
     lifetime: 30
     width: 12
     height: 18
@@ -40,6 +41,8 @@ ammoTypes: {
    frontcolor: ffffff
    backcolor: ffffaa
    status: slow
+   shootEffect: shootBig
+   smokeEffect: shootBigSmoke
   }
 }
 
@@ -47,8 +50,8 @@ research: {
   parent: duo
   requirements: [
     copper/2500
-    lead/2200
-    titanium/2200
+    lead/2000
+    titanium/2000
   ]
 }
 
