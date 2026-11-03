@@ -1,4 +1,6 @@
 type: GenericCrafter
+name: Fabricador de Rioxita
+description: Funde componentes básicos para obtener Rioxita en bruto.
 category: crafting
 size: 2
 hasPower: true
