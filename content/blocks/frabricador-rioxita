@@ -1,0 +1,33 @@
+type: GenericCrafter
+name: Fabricador de Rioxita
+description: Funde componentes básicos para sintetizar Rioxita en bruto.
+size: 2
+hasPower: true
+hasItems: true
+craftTime: 12
+updateEffect: smeltsmoke
+
+consumes: {
+  power: 0.8
+  items: {
+    items: [
+      copper/2
+      lead/2
+    ]
+  }
+}
+
+requirements: [
+  copper/60
+  lead/60
+]
+
+category: crafting
+research: {
+  parent: core-shard
+  requirements: [
+    copper/1000
+  ]
+}
+
+outputItem: testmod-rioxita/2
