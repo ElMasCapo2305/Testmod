@@ -13,7 +13,7 @@ requirements: [
   lead/170
   titanium/110
 ]
-buildCost: 0
+buildCost: 50
 
 ammoTypes: {
   testmod-rioxita: {
