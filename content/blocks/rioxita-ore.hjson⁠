@@ -1,4 +1,5 @@
 type: OreBlock
-item: rioxita
+item: testmod-rioxita
 oreDefault: true
 variants: 3
+category: environment
