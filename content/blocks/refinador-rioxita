@@ -10,7 +10,8 @@ updateEffect: smeltsmoke
 
 requirements: [
   rioxita/30
-  titanium/50
+  scrap/30
+  titanium/30
   graphite/30
 ]
 
