@@ -19,7 +19,7 @@ ammoTypes: {
   testmod-rioxita: {
     type: BasicBulletType
     speed: 10
-    damage: 350
+    damage: 250
     lifetime: 30
     width: 12
     height: 18
