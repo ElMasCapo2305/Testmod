@@ -20,7 +20,7 @@ consumes: {
   items: [
     rioxita/2
     silicon/1
-    titanium/1
+    titanium/2
   ]
 }
 
