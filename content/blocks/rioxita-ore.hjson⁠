@@ -3,4 +3,7 @@ name: Rioxita Ore
 item: testmod-rioxita
 oreDefault: true
 variants: 3
+oreScale: 24
+oreThreshold: 0.81
+alwaysUnlocked: true
 category: environment
