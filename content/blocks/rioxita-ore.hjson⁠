@@ -1,3 +1,9 @@
 type: OreBlock
+name: Rioxita
 item: testmod-rioxita
 oreDefault: true
+variants: 3
+oreScale: 20
+oreThreshold: 0.82
+alwaysUnlocked: true
+category: environment
