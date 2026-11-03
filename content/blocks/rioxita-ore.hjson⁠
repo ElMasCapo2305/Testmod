@@ -1,2 +1,4 @@
 type: OreBlock
 item: rioxita
+oreDefault: true
+variants: 3
