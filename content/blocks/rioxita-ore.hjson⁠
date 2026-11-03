@@ -1,4 +1,5 @@
 type: OreBlock
+name: Rioxita Ore
 item: testmod-rioxita
 oreDefault: true
 variants: 3
