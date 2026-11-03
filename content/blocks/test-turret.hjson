@@ -1,12 +1,12 @@
 type: ItemTurret
-name: Test Turret
-description: Una torreta pesada de 3x3 que utiliza Test Item para infligir una cantidad masiva de daño.
+name: Torreta Rio
+description: Una torreta pesada de 3x3 que utiliza Rioxita para infligir una cantidad masiva de daño.
 size: 3
 health: 1500
-reload: 30
+reload: 15
 range: 240
 inaccuracy: 0.5
-rotateSpeed: 4
+rotateSpeed: 1
 
 requirements: [
   copper/150
@@ -15,9 +15,9 @@ requirements: [
 ]
 
 ammoTypes: {
-  testmod-test-item: {
+  testmod-rioxita: {
     type: BasicBulletType
-    speed: 8
+    speed: 10
     damage: 350
     lifetime: 30
     width: 12
