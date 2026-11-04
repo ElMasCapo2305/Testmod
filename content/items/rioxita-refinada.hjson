@@ -1,7 +1,7 @@
 type: item
 name: Rioxita Refinada
 description: Lingote refinado de Rioxita de alto blindaje, utilizado principalmente en elaboracion de muros y fabricas
-cost: 1.2
+cost: 1
 color: C91818FF
 explosiveness: 0.1
 flammability: 0.2
