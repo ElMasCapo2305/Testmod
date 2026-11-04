@@ -3,7 +3,7 @@ name: Bomba nuclear de radioxita
 description: Bomba nuclear de potencia media capaz de aniquilar estructuras y unidades, tanto aliadas como enemigas
 size:1
 health: 250
-buildCostMultiplier: 0.3
+buildCostMultiplier: 0.8
 category: effect
 
 requirements: [
