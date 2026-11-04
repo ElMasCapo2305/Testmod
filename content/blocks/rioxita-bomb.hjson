@@ -1,0 +1,38 @@
+type: Wall
+name: Bomba nuclear de radioxita
+description: Bomba nuclear de potencia media capaz de aniquilar estructuras y unidades, tanto aliadas como enemigas
+health: 400
+category: defense
+
+requirements: [
+  titanium/20
+  rioxita/80
+]
+
+destroyBullet: {
+  type: BasicBulletType
+  damage: 0
+  speed: 0
+  lifetime: 1
+  collides: false
+  collidesTiles: false
+  hittable: false
+  absorbable: false
+  reflectable: false
+  splashDamage: 5000
+  splashDamageRadius: 200
+  splashDamagePierce: true
+  hitShake: 20
+  hitEffect: massiveExplosion
+  despawnEffect: massiveExplosion
+  hitSound: explosion
+}
+
+research: {
+  parent: torreta-rio
+  requirements: [
+    rioxita/450
+    titanium/200
+    copper/300
+  ]
+}
