@@ -1,7 +1,8 @@
 type: Wall
 name: Bomba nuclear de radioxita
 description: Bomba nuclear de potencia media capaz de aniquilar estructuras y unidades, tanto aliadas como enemigas
-health: 400
+size:1
+health: 500
 category: defense
 
 requirements: [
