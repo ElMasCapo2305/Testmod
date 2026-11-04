@@ -19,7 +19,6 @@ consumes: {
   power: 0.8
   items: [
     rioxita/2
-    silicon/1
     titanium/2
   ]
 }
