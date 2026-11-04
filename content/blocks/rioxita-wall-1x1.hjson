@@ -4,12 +4,12 @@ description: Un muro denso y resistente fabricado con lingotes de Rioxita Refina
 size: 1
 health: 800
 requirements: [
-  testmod-rioxita-refinada/6
+  rioxita-refinada/6
 ]
 category: defense
 research: {
   parent: copper-wall-large
   requirements: [
-    testmod-rioxita-refinada/200
+    rioxita-refinada/150
   ]
 }
