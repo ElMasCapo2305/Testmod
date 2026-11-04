@@ -4,13 +4,13 @@ description: Una barricada gruesa de 2x2 construida con placas de Rioxita Refina
 size: 2
 health: 2800
 requirements: [
-  testmod-rioxita-refinada/24
+  rioxita-refinada/24
 ]
 category: defense
 research: {
   parent: rioxita-wall
   requirements: [
-    testmod-rioxita/100
-    testmod-rioxita-refinada/150
+    rioxita/100
+    rioxita-refinada/150
   ]
 }
