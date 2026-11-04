@@ -27,7 +27,7 @@ destroyBullet: {
   splashDamagePierce: true
   hitShake: 80
   hitEffect: massiveExplosion
-  despawnEffect: reactorExplosion
+  despawnEffect: bigShockwave
   hitSound: explosion
 }
 
