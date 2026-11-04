@@ -26,7 +26,6 @@ ammo: {
     ammoMultiplier: 2
     pierceCap: 2
     chargeEffect: lancerLaserCharge
-
     hitEffect: hitLancer
   }
 }
