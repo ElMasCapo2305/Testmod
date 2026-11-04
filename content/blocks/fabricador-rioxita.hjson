@@ -16,12 +16,12 @@ requirements: [
 consumes: {
   power: 0.8
   items: [
-    copper/4
-    lead/4
+    copper/5
+    lead/5
   ]
 }
 
-outputItem: rioxitamod-rioxita/1
+outputItem: rioxitamod-rioxita/2
 
 research: {
   parent: silicon-smelter
