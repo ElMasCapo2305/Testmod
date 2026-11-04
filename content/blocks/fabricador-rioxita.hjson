@@ -21,7 +21,7 @@ consumes: {
   ]
 }
 
-outputItem: testmod-rioxita/1
+outputItem: rioxitamod-rioxita/1
 
 research: {
   parent: silicon-smelter
