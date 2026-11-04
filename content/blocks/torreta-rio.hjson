@@ -5,19 +5,19 @@ size: 3
 health: 1500
 reload: 12
 range: 240
-inaccuracy: 1
+inaccuracy: 2.5
 rotateSpeed: 9
+ammoMax: 45
 
 requirements: [
   copper/100
   lead/60
   titanium/50
-  rioxitamod-rioxita/40
+  rioxita/40
 ]
-buildCost: 1
 
 ammoTypes: {
-  rioxitamod-rioxita: {
+  rioxita: {
     type: BasicBulletType
     speed: 10
     damage: 160
