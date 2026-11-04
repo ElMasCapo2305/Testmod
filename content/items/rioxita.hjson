@@ -1,7 +1,7 @@
 type: item
 name: Rioxita
 description: Un mineral experimental de alto poder reactivo, utilizado principalmente como munición avanzada.
-cost: 0.8
+cost: 0.5
 color: AF1414FF
 explosiveness: 0.5
 flammability: 0.75
