@@ -2,8 +2,8 @@ type: Wall
 name: Bomba nuclear de radioxita
 description: Bomba nuclear de potencia media capaz de aniquilar estructuras y unidades, tanto aliadas como enemigas
 size:1
-health: 500
-category: defense
+health: 250
+category: effect
 
 requirements: [
   titanium/20
@@ -14,7 +14,7 @@ destroyBullet: {
   type: BasicBulletType
   damage: 0
   speed: 0
-  lifetime: 1
+  lifetime: 5
   collides: false
   collidesTiles: false
   hittable: false
@@ -23,7 +23,7 @@ destroyBullet: {
   splashDamage: 5000
   splashDamageRadius: 200
   splashDamagePierce: true
-  hitShake: 20
+  hitShake: 80
   hitEffect: massiveExplosion
   despawnEffect: massiveExplosion
   hitSound: explosion
