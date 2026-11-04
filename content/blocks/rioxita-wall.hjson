@@ -5,6 +5,7 @@ size: 1
 health: 800
 requirements: [
   testmod-rioxita-refinada/6
+  buildCost:1
 ]
 category: defense
 research: {
