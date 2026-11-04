@@ -10,6 +10,6 @@ category: defense
 research: {
   parent: rioxita-wall-2x2
   requirements: [
-    rioxita-refinada/150
+    rioxita-refinada/200
   ]
 }
