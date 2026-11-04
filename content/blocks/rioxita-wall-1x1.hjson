@@ -10,6 +10,6 @@ category: defense
 research: {
   parent: copper-wall-large
   requirements: [
-    rioxita-refinada/150
+    rioxita-refinada/100
   ]
 }
