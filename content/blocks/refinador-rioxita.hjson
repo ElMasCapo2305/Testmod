@@ -24,7 +24,7 @@ consumes: {
   ]
 }
 
-outputItem: testmod-rioxita-refinada/2
+outputItem: rioxita-refinada/2
 
 research: {
   parent: fabricador-rioxita
