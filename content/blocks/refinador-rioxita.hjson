@@ -29,7 +29,7 @@ outputItem: rioxita-refinada/2
 research: {
   parent: fabricador-rioxita
   requirements: [
-    rioxita/500
-    titanium/1000
+    rioxita/200
+    titanium/700
   ]
 }
