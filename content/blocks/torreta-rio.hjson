@@ -8,6 +8,7 @@ range: 240
 inaccuracy: 2.5
 rotateSpeed: 9
 ammoMax: 45
+ammoPerShot: 1
 
 requirements: [
   copper/100
