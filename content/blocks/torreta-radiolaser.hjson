@@ -43,7 +43,7 @@ drawer: {
     }
   ]
 }
-reload: 1
+reload: 30
 shoot: {
   firstShotDelay: 30
 }
