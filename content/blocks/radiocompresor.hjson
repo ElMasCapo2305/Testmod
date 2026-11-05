@@ -25,7 +25,7 @@ consumes: {
   ]
 }
 
-outputItem: radioxita/2
+outputItem: rioxitamod-radioxita/2
 
 research: {
   parent: refinador-rioxita
