@@ -20,7 +20,7 @@ ammo: {
   rioxita: {
     type: LaserBulletType
     damage: 350
-    length: 210
+    length: 170
     width: 25
     lifetime: 16
     ammoMultiplier: 2
@@ -30,7 +30,7 @@ ammo: {
   }
 }
 
-range: 200
+range: 160
 drawer: {
   type: DrawTurret
   parts: [
