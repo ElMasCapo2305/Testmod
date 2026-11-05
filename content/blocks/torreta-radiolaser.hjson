@@ -60,7 +60,7 @@ research: {
   parent: torreta-rio
   requirements: [
     titanium/1200
-    rioxita-refinada/200
-    rioxita/500
+    rioxita-refinada/300
+    radioxita/150
   ]
 }
