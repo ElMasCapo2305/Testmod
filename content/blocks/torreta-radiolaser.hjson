@@ -22,7 +22,7 @@ shootType: {
   damage: 50
   damageInterval: 5
   length: 170
-  width: 15
+  width: 25
   lifetime: 160
   pierceCap: 5
   hitEffect: hitLancer
