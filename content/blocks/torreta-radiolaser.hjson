@@ -18,7 +18,7 @@ consumes: {
 
 ammoTypes: {
   radioxita: {
-    type: LaserBulletType
+    type: ContinuousLaserBulletType
     damage: 350
     length: 170
     width: 25
