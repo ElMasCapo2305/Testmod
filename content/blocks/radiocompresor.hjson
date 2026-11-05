@@ -1,0 +1,34 @@
+type: GenericCrafter
+name: Radiocompresor de Radioxita
+description: Comprime los elementos radiactivos de la Rioxita elevando su potencia y volviendola ideal para armas de calibre nuclear y generadores de energía de alto rendimiento.
+category: crafting
+size: 3
+hasPower: true
+hasItems: true
+craftTime: 30
+updateEffect: smeltsmoke
+
+requirements: [
+  titanium/70
+  rioxita-refinada/50
+  copper/100
+]
+
+consumes: {
+  power: 2.5
+  items: [
+    rioxita/3
+    coal/5
+  ]
+}
+
+outputItem: radioxita/2
+
+research: {
+  parent: refinador-rioxita
+  requirements: [
+    titanium/1000
+    rioxita/1000
+    rioxita-refinada/700
+  ]
+}
