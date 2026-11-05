@@ -16,8 +16,8 @@ consumes: {
   power: 3
 }
 
-ammo: {
-  rioxitamod-radioxita: {
+ammoType: {
+  radioxita: {
     type: LaserBulletType
     damage: 350
     length: 170
