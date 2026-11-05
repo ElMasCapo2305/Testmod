@@ -1,7 +1,7 @@
 type: Wall
 name: Bomba nuclear de radioxita
 description: Bomba nuclear de potencia media capaz de aniquilar estructuras y unidades, tanto aliadas como enemigas
-details: "Daño de explosión: 5000\nAlcance:25 mts"
+details: "Daño de explosión: 5000\nAlcance: 25 bloques"
 size:1
 health: 250
 buildCostMultiplier: 1
@@ -38,5 +38,6 @@ research: {
     rioxita/450
     titanium/200
     copper/300
+    radioxita/300
   ]
 }
