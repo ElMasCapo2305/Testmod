@@ -1,5 +1,5 @@
 type: ContinuousTurret
-name: Torreta Láser de Radioxita
+name: Radiolaser
 description: Torreta láser de gran calibre que usa energía y mantiene un rayo sobre el enemigo con más vida.
 size: 3
 health: 1500
@@ -37,6 +37,7 @@ shootType: {
 range: 160
 shootWarmupSpeed: 0.1
 minWarmup: 0.95
+shootSound: laser
 unitSort: strongest
 
 drawer: {
