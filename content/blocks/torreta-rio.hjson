@@ -2,7 +2,8 @@ type: ItemTurret
 name: Torreta Rio
 description: Una torreta pesada de 3x3 que utiliza Rioxita para infligir una cantidad masiva de daño.
 size: 3
-health: 1500
+health: 150
+buildCostMultiplier: 0.5
 reload: 12
 range: 240
 inaccuracy: 2.5
