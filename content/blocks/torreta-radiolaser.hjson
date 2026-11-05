@@ -15,7 +15,9 @@ requirements: [
 
 consumes: {
   power: 4
-  item:
+  item: [
+    radioxita/2
+ ]
 }
 
 shootType: {
