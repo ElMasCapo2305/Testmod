@@ -17,7 +17,7 @@ consumes: {
   power: 4
   item: [
     radioxita/2
- ]
+  ]
 }
 
 shootType: {
