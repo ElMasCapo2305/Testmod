@@ -36,7 +36,7 @@ drawer: {
   parts: [
     {
       type: RegionPart
-      suffix: -cargando
+      suffix: -cargado
       progress: reload
       color: "ffffff00"
       colorTo: "ffffffff"
