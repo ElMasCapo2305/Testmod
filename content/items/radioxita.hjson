@@ -4,7 +4,7 @@ description: Rioxita modificada artificialmente para obtener grandes cantidades 
 cost: 1
 color: FF0000FF
 explosiveness: 1.1
-flammability: 0.4
+flammability: 1.2
 radioactivity: 1.2
 charge: 1
 hardness: 1
