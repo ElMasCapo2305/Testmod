@@ -3,9 +3,9 @@ name: Rioxita Refinada
 description: Lingote refinado de Rioxita de alto blindaje, utilizado principalmente en elaboracion de muros y fabricas
 cost: 1
 color: C91818FF
-explosiveness: 0.1
-flammability: 0.2
-radioactivity: 0.6
-charge: 0.4
+explosiveness: 0
+flammability: 0
+radioactivity: 0.1
+charge: 0.5
 hardness: 1
 research: rioxitamod-rioxita
