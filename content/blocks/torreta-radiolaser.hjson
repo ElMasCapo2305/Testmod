@@ -3,7 +3,7 @@ name: Radiolaser
 description: Torreta láser de gran calibre que utiliza energía. Mantiene como objetivo al enemigo con mayorl vida.
 size: 3
 health: 1500
-buildCostMultiplier: 1.8
+buildCostMultiplier: 0.5
 category: turret
 
 requirements: [
