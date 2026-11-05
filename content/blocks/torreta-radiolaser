@@ -31,6 +31,18 @@ ammo: {
 }
 
 range: 200
+drawer: {
+  type: DrawTurret
+  parts: [
+    {
+      type: RegionPart
+      suffix: -cargando
+      progress: reload
+      color: "ffffff00"
+      colorTo: "ffffffff"
+    }
+  ]
+}
 reload: 15
 shoot: {
   firstShotDelay: 30
