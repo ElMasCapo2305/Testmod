@@ -40,7 +40,7 @@ shootWarmupSpeed: 0.1
 minWarmup: 0.95
 shootSound: radiolaser-start
 loopSound: radiolaser-loop
-loopSoundVolume: 1.5
+loopSoundVolume: 2
 unitSort: strongest
 
 drawer: {
