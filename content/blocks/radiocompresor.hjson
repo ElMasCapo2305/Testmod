@@ -3,7 +3,7 @@ name: Radiocompresor de Radioxita
 description: Comprime los elementos radiactivos de la Rioxita elevando su potencia y volviendola ideal para armas de calibre nuclear y generadores de energía de alto rendimiento.
 category: crafting
 size: 3
-buildCostMultiplier: 3.5
+buildCostMultiplier: 0.45
 hasPower: true
 hasItems: true
 craftTime: 30
