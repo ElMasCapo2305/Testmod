@@ -1,4 +1,4 @@
-wtype: GenericCrafter
+type: GenericCrafter
 name: Radiocompresor de Radioxita
 description: Comprime los elementos radiactivos de la Rioxita elevando su potencia y volviendola ideal para armas de calibre nuclear y generadores de energía de alto rendimiento.
 category: crafting
