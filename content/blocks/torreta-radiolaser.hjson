@@ -19,12 +19,12 @@ consumes: {
 
 shootType: {
   type: ContinuousLaserBulletType
-  damage: 100
+  damage: 50
   damageInterval: 5
   length: 170
-  width: 25
+  width: 15
   lifetime: 160
-  pierceCap: 2
+  pierceCap: 5
   hitEffect: hitLancer
   colors: [
     "ff000055"
@@ -35,7 +35,7 @@ shootType: {
 }
 
 range: 160
-shootWarmupSpeed: 0.03
+shootWarmupSpeed: 0.1
 minWarmup: 0.95
 unitSort: strongest
 
