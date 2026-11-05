@@ -22,7 +22,7 @@ ammoTypes: {
     damage: 350
     length: 170
     width: 25
-    lifetime: 16
+    lifetime: 60
     ammoMultiplier: 2
     pierceCap: 2
     chargeEffect: lancerLaserCharge
