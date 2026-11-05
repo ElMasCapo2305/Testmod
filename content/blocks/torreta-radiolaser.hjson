@@ -21,9 +21,9 @@ shootType: {
   type: ContinuousLaserBulletType
   damage: 100
   damageInterval: 5
-  length: 170
+  length: 205
   width: 25
-  lifetime: 205
+  lifetime: 16
   pierceCap: 5
   shake: 3
   hitEffect: hitLancer
