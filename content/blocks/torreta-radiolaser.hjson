@@ -16,7 +16,7 @@ consumes: {
   power: 3
 }
 
-ammoType: {
+ammo: {
   radioxita: {
     type: LaserBulletType
     damage: 350
