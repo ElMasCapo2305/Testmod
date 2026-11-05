@@ -1,6 +1,6 @@
 type: ContinuousTurret
 name: Radiolaser
-description: Torreta láser de gran calibre que usa energía y mantiene un rayo sobre el enemigo con más vida.
+description: Torreta láser de gran calibre que utiliza energía. Mantiene como objetivo al enemigo con mayorl vida.
 size: 3
 health: 1500
 buildCostMultiplier: 1.8
@@ -23,7 +23,7 @@ shootType: {
   damageInterval: 5
   length: 170
   width: 25
-  lifetime: 160
+  lifetime: 205
   pierceCap: 5
   shake: 3
   hitEffect: hitLancer
@@ -35,8 +35,8 @@ shootType: {
   ]
 }
 
-range: 160
-shootWarmupSpeed: 0.05
+range: 200
+shootWarmupSpeed: 0.1
 minWarmup: 0.95
 shootSound: radiolaser-shoot
 loopSound: radiolaser-loop
