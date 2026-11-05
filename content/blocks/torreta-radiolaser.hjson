@@ -1,6 +1,6 @@
 type: ItemTurret
 name: Torreta Láser de Radioxita
-description: Torreta laser de gran calibre que utiliza Radioxita y energia como munición. Ataca solamente al enemigo con más vida.
+description: Torreta laser de gran calibre que utiliza Radioxita y energia como munición. Ataca automáticamente a los enemigos con más vida.
 size: 3
 health: 1500
 buildCostMultiplier: 1.8
