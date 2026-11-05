@@ -25,6 +25,7 @@ shootType: {
   width: 25
   lifetime: 160
   pierceCap: 5
+  shake: 2
   hitEffect: hitLancer
   colors: [
     "ff000055"
@@ -37,6 +38,9 @@ shootType: {
 range: 160
 shootWarmupSpeed: 0.1
 minWarmup: 0.95
+shootSound: laserbig
+loopSound: beam
+loopSoundVolume: 1.5
 unitSort: strongest
 
 drawer: {
