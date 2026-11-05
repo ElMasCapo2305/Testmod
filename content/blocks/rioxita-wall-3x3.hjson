@@ -3,7 +3,7 @@ name: Muro de rioxita refinada enorme
 description: Un muro denso y ee alta resistencia, creado para resistir los ataques enemigos mas fuertes, fabricado con bloques macizos de Rioxita Refinada.
 size: 3
 health: 4000
-buildCostMultiplier: 1
+buildCostMultiplier: 4
 requirements: [
   rioxita-refinada/48
 ]
