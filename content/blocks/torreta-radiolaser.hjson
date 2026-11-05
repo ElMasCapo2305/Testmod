@@ -37,7 +37,7 @@ drawer: {
     {
       type: RegionPart
       suffix: -cargado
-      progress: warmup
+      progress: charge
       color: "ffffff00"
       colorTo: "ffffffff"
     }
