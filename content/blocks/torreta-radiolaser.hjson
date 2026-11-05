@@ -38,7 +38,7 @@ shootType: {
 range: 160
 shootWarmupSpeed: 0.1
 minWarmup: 0.95
-shootSound: radiolaser-start
+shootSound: none
 loopSound: radiolaser-loop
 loopSoundVolume: 2
 unitSort: strongest
