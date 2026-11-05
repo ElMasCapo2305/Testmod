@@ -9,7 +9,7 @@ category: turret
 requirements: [
   titanium/100
   copper/100
-  radioxita-refinada/50
+  rioxita-refinada/50
 ]
 
 consumes: {
@@ -17,7 +17,7 @@ consumes: {
 }
 
 ammo: {
-  testmod-radioxita: {
+  rioxita: {
     type: LaserBulletType
     damage: 350
     length: 210
