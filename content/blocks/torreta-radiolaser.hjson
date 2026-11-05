@@ -15,6 +15,7 @@ requirements: [
 
 consumes: {
   power: 4
+  item:
 }
 
 shootType: {
@@ -24,8 +25,8 @@ shootType: {
   length: 205
   width: 25
   lifetime: 16
-  pierceCap: 5
-  shake: 3
+  pierceCap: 3
+  shake: 2.5
   hitEffect: hitLancer
   colors: [
     "ff000055"
