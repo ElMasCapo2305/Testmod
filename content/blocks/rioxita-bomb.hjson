@@ -9,14 +9,15 @@ category: effect
 
 requirements: [
   titanium/20
-  rioxita/80
+  rioxita/20
+  radioxita/60
 ]
 
 destroyBullet: {
   type: BasicBulletType
   damage: 0
   speed: 0
-  lifetime: 5
+  lifetime: 3
   collides: false
   collidesTiles: false
   hittable: false
@@ -25,7 +26,7 @@ destroyBullet: {
   splashDamage: 5000
   splashDamageRadius: 200
   splashDamagePierce: true
-  hitShake: 80
+  hitShake: 100
   hitEffect: massiveExplosion
   despawnEffect: reactorExplosion
   hitSound: explosion
