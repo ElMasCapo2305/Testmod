@@ -1,0 +1,11 @@
+type: item
+name: Radioxita
+description: Rioxita modificada artificialmente para obtener grandes cantidades de radiación y energia, utilizado principalmente en armas de alto consumo energético y gran calibre, también utilizada para generar energía.
+cost: 1
+color: FF0000FF
+explosiveness: 1.1
+flammability: 0.4
+radioactivity: 1.2
+charge: 1
+hardness: 1
+research: rioxitamod-rioxita-refinada
