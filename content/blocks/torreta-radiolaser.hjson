@@ -17,7 +17,7 @@ consumes: {
 }
 
 ammo: {
-  rioxita: {
+  rioxitamod-rioxita: {
     type: LaserBulletType
     damage: 350
     length: 170
