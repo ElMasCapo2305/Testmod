@@ -16,7 +16,7 @@ consumes: {
   power: 3
 }
 
-ammo: {
+ammoTypes: {
   radioxita: {
     type: LaserBulletType
     damage: 350
@@ -37,7 +37,7 @@ drawer: {
     {
       type: RegionPart
       suffix: -cargado
-      progress: reload
+      progress: warmup
       color: "ffffff00"
       colorTo: "ffffffff"
     }
