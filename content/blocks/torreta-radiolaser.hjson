@@ -14,12 +14,12 @@ requirements: [
 ]
 
 consumes: {
-  power: 3
+  power: 4
 }
 
 shootType: {
   type: ContinuousLaserBulletType
-  damage: 50
+  damage: 100
   damageInterval: 5
   length: 170
   width: 25
