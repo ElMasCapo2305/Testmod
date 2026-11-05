@@ -39,6 +39,7 @@ range: 160
 shootWarmupSpeed: 0.1
 minWarmup: 0.95
 shootSound: none
+chargeSound: radiolaser-start
 loopSound: radiolaser-loop
 loopSoundVolume: 2
 unitSort: strongest
