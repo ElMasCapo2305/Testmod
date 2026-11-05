@@ -37,7 +37,6 @@ shootType: {
 range: 160
 shootWarmupSpeed: 0.1
 minWarmup: 0.95
-shootSound: laser
 unitSort: strongest
 
 drawer: {
