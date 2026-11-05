@@ -1,0 +1,62 @@
+type: ItemTurret
+name: Torreta Láser de Radioxita
+description: Torreta laser de gran calibre que utiliza Radioxita y energia como munición. Ataca solamente al enemigo con más vida.
+size: 3
+health: 1500
+buildCostMultiplier: 1.8
+category: turret
+
+requirements: [
+  titanium/100
+  copper/100
+  radioxita-refinada/50
+]
+
+consumes: {
+  power: 3
+}
+
+ammo: {
+  testmod-radioxita: {
+    type: LaserBulletType
+    damage: 350
+    length: 210
+    width: 25
+    lifetime: 16
+    ammoMultiplier: 2
+    pierceCap: 2
+    chargeEffect: lancerLaserCharge
+    hitEffect: hitLancer
+  }
+}
+
+range: 200
+drawer: {
+  type: DrawTurret
+  parts: [
+    {
+      type: RegionPart
+      suffix: -cargado
+      progress: reload
+      color: "ffffff00"
+      colorTo: "ffffffff"
+    }
+  ]
+}
+reload: 15
+shoot: {
+  firstShotDelay: 30
+}
+shootSound: laser
+
+maxAmmo: 30
+unitSort: strongest
+
+research: {
+  parent: torreta-rio
+  requirements: [
+    titanium/1200
+    rioxita-refinada/200
+    rioxita/500
+  ]
+}
