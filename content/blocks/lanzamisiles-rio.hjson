@@ -1,0 +1,51 @@
+type: ItemTurret
+name: Lanzamisiles de Rioxita
+description: Dispara misiles dirigidos que explotan con enorme potencia y dejan fuego tras el impacto.
+size: 3
+health: 1500
+buildCostMultiplier: 0.5
+category: turret
+
+requirements: [
+  titanium/150
+  copper/100
+  rioxita-refinada/75
+]
+
+ammoTypes: {
+  rioxita: {
+    type: MissileBulletType
+    damage: 35
+    splashDamage: 350
+    splashDamageRadius: 40
+    speed: 4
+    lifetime: 62.5
+    homingPower: 0.1
+    homingRange: 60
+    ammoMultiplier: 1
+    width: 9
+    height: 15
+    makeFire: true
+    incendChance: 1
+    incendAmount: 4
+    incendSpread: 20
+    status: burning
+    statusDuration: 180
+    hitShake: 1.5
+    hitEffect: blastExplosion
+    despawnEffect: none
+  }
+}
+
+range: 240
+reload: 150
+maxAmmo: 10
+
+research: {
+  parent: torreta-rio
+  requirements: [
+    titanium/1200
+    rioxita-refinada/200
+    coal/500
+  ]
+}
