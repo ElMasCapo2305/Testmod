@@ -47,6 +47,7 @@ drawer: {
       colorTo: "ffffffff"
     }
   ]
+}
 range: 240
 reload: 150
 maxAmmo: 10
