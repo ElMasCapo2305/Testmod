@@ -36,7 +36,17 @@ ammoTypes: {
     despawnEffect: none
   }
 }
-
+drawer: {
+  type: DrawTurret
+  parts: [
+    {
+      type: RegionPart
+      suffix: -cargado
+      progress: charge
+      color: "ffffff00"
+      colorTo: "ffffffff"
+    }
+  ]
 range: 240
 reload: 150
 maxAmmo: 10
