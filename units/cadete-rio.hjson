@@ -1,6 +1,6 @@
 type: mech
 name: Cadete Rio
-description: Cadete a soldado del Ejército Rio.
+description: Cadete aspirante a soldado del Ejército del Imperio Rio.
 health: 650
 armor: 4
 speed: 0.8
