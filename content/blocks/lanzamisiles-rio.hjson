@@ -53,7 +53,7 @@ reload: 180
 maxAmmo: 10
 
 research: {
-  parent: torreta-rio
+  parent: radiolaser
   requirements: [
     titanium/1200
     rioxita-refinada/200
