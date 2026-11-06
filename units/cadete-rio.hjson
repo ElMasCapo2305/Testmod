@@ -8,7 +8,7 @@ hitSize: 11
 
 weapons: [
   {
-    name: rifle-rioxita
+    name: rifle-rio
     reload: 15
     x: 6
     y: 1
