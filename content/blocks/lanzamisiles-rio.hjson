@@ -15,8 +15,8 @@ requirements: [
 ammoTypes: {
   rioxita: {
     type: MissileBulletType
-    damage: 35
-    splashDamage: 350
+    damage: 40
+    splashDamage: 400
     splashDamageRadius: 40
     speed: 4
     lifetime: 62.5
@@ -27,8 +27,8 @@ ammoTypes: {
     height: 15
     makeFire: true
     incendChance: 1
-    incendAmount: 4
-    incendSpread: 20
+    incendAmount: 6
+    incendSpread: 24
     status: burning
     statusDuration: 180
     hitShake: 1.5
@@ -48,8 +48,8 @@ drawer: {
     }
   ]
 }
-range: 240
-reload: 150
+range: 200
+reload: 180
 maxAmmo: 10
 
 research: {
