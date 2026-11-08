@@ -3,3 +3,5 @@ name: Distance
 description: El rifle Distance es una torreta de largo alcance y daño, capaz de destruir enemigos tanto terrestres como aereos.
 size: 3
 health: 2200
+reload: 90
+range: 320
