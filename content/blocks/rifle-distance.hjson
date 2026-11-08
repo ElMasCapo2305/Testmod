@@ -9,3 +9,7 @@ inaccuracy: 0
 rotateSpeed: 7
 maxAmmo: 15
 ammoPerShot: 1
+
+requeriments: {
+  copper/50
+  
