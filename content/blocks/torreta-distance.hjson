@@ -4,7 +4,7 @@ description: La torreta Distance es una defensa de largo alcance y gran daño, c
 size: 3
 health: 2200
 reload: 180
-shake: 2.2
+shake: 4
 range: 320
 inaccuracy: 0
 rotateSpeed: 7
@@ -30,7 +30,7 @@ ammoTypes: {
     backColor: ff5555
     status: burning
     statusDuration: 180
-    hitShake: 1
+    hitShake: 1.8
     shootEffect: shootBig
     smokeEffect: shootBigSmoke
   }
