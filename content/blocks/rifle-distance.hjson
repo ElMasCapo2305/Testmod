@@ -29,6 +29,6 @@ requeriments: [
     status: blasted
     status: burning
     statusDuration: 180
-    
+    hitShake: 1
     shootEffect: shootBig
     smokeEffect: shootBigSmoke
