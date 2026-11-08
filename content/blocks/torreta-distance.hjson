@@ -11,23 +11,23 @@ rotateSpeed: 7
 maxAmmo: 15
 ammoPerShot: 1
 
-requeriments: [
-  copper/50
-  lead/30
-  titanium/30
+requirements: [
+  copper/100
+  lead/80
+  titanium/60
+  rioxita/40
 ]
- ammoTypes: {
+ammoTypes: {
   rioxita: {
     type: BasicBulletType
-    speed: 12
-    damage: 300
+    speed: 14
+    damage: 250
     ammoMultiplier: 1
-    lifetime: 25
+    lifetime: 23
     width: 12
     height: 18
     frontColor: ffffff
     backColor: ff5555
-    status: blasted
     status: burning
     statusDuration: 180
     hitShake: 1
@@ -38,11 +38,11 @@ requeriments: [
 
 research: {
   parent: torreta-rio
-  requeriments: [
+  requirements: [
     rioxita/500
-    titanium/ 500
+    titanium/500
     graphite/500
-    silicon/ 500
+    silicon/500
     rioxita-refinada/100
   ]
 }
