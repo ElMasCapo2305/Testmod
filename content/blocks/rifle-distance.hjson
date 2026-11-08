@@ -28,5 +28,7 @@ requeriments: [
     backColor: ff5555
     status: blasted
     status: burning
+    statusDuration: 180
+    
     shootEffect: shootBig
     smokeEffect: shootBigSmoke
