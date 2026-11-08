@@ -7,3 +7,5 @@ reload: 90
 range: 320
 inaccuracy: 0
 rotateSpeed: 7
+maxAmmo: 15
+ammoPerShot: 1
