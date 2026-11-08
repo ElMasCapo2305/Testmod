@@ -15,4 +15,17 @@ requeriments: [
   lead/30
   titanuim/30
 ]
-
+ ammoType:[
+  rioxita: {
+    type: BasicBulletType
+    speed: 10
+    damage: 160
+    ammoMultiplier: 3
+    lifetime: 30
+    width: 12
+    height: 18
+    frontColor: ffffff
+    backColor: ff5555
+    status: blasted
+    shootEffect: shootBig
+    smokeEffect: shootBigSmoke
