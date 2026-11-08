@@ -1,3 +1,4 @@
+type: item
 name: Azufre
 description: Mineral amarillo, corrosivo e inflamable.
 color: "e8d44d"
@@ -7,3 +8,4 @@ flammability: 1
 explosiveness: 0.3
 radioactivity: 0
 charge: 0
+research: rioxita
