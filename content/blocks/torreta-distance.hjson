@@ -16,7 +16,7 @@ requeriments: [
   lead/30
   titanium/30
 ]
- ammoType: {
+ ammoTypes: {
   rioxita: {
     type: BasicBulletType
     speed: 12
