@@ -10,6 +10,9 @@ rotateSpeed: 7
 maxAmmo: 15
 ammoPerShot: 1
 
-requeriments: {
+requeriments: [
   copper/50
-  
+  lead/30
+  titanuim/30
+]
+
