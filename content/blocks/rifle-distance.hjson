@@ -38,4 +38,9 @@ requeriments: [
 
 research: {
   parent: torreta-rio
-  
+  requeriments: {
+    rioxita/500
+    titanium/ 500
+    graphite/500
+    silicon/ 500
+    rioxita-refinada/100
