@@ -1,6 +1,6 @@
 type: ItemTurret
 name: Distance
-description: El rifle Distance es una torreta de largo alcance y daño, capaz de destruir enemigos tanto terrestres como aereos.
+description: La torreta Distance es una defensa de largo alcance y gran daño, capaz de destruir enemigos tanto terrestres como aereos.
 size: 3
 health: 2200
 reload: 180
@@ -14,7 +14,7 @@ ammoPerShot: 1
 requeriments: [
   copper/50
   lead/30
-  titanuim/30
+  titanium/30
 ]
  ammoType: {
   rioxita: {
