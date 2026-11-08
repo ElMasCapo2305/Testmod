@@ -5,6 +5,7 @@ size: 3
 health: 2200
 reload: 225
 shake: 4.5
+recoil: 5
 range: 320
 inaccuracy: 0
 rotateSpeed: 7
