@@ -1,6 +1,6 @@
 type: item
 name: Azufre
-description: Mineral amarillo, corrosivo e inflamable.
+description: Mineral amarillo, altamente corrosivo e inflamable.
 color: "e8d44d"
 hardness: 3
 cost: 0.5
