@@ -1,5 +1,5 @@
 type: ItemTurret
-name: Lanzamisiles de Rioxita
+name: Lanzamisiles Rio
 description: Dispara misiles dirigidos que explotan con enorme potencia y dejan fuego tras el impacto.
 size: 3
 health: 1500
