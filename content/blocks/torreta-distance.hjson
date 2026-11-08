@@ -4,7 +4,7 @@ description: La torreta Distance es una defensa de largo alcance y gran daño, c
 size: 3
 health: 2200
 reload: 180
-shake: 5
+shake: 4.5
 range: 320
 inaccuracy: 0
 rotateSpeed: 7
