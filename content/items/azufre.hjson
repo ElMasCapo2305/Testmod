@@ -1,0 +1,9 @@
+name: Azufre
+description: Mineral amarillo, corrosivo e inflamable.
+color: "e8d44d"
+hardness: 2
+cost: 0.8
+flammability: 1
+explosiveness: 0.3
+radioactivity: 0
+charge: 0
