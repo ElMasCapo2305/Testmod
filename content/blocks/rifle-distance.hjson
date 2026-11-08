@@ -33,3 +33,9 @@ requeriments: [
     hitShake: 1
     shootEffect: shootBig
     smokeEffect: shootBigSmoke
+  }
+}
+
+research: {
+  parent: torreta-rio
+  
