@@ -1,0 +1,29 @@
+type: SolidPump
+name: Extractor de Aire
+description: Extrae aire del ambiente.
+size: 2
+health: 150
+category: liquid
+result: aire
+pumpAmount: 0.2
+baseEfficiency: 1
+liquidCapacity: 30
+rotateSpeed: 1.4
+
+requirements: [
+  graphite/20
+  metaglass/30
+  titanium/30
+]
+
+consumes: {
+  power: 1.5
+}
+
+research: {
+  parent: water-extractor
+  requirements: [
+    graphite/200
+    metaglass/200
+  ]
+}
