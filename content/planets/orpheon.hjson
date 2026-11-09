@@ -3,8 +3,8 @@ parent: sun
 radius: 0.8
 sectorSize: 2
 hasAtmosphere: true
-atmosphereColor: "6fa8dc"
-iconColor: "6fa8dc"
+atmosphereColor: "186abc"
+iconColor: "186abc"
 alwaysUnlocked: true
 
 mesh: {
