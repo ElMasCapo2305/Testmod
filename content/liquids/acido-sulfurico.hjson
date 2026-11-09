@@ -1,0 +1,8 @@
+name: Ácido Sulfúrico
+description: Líquido altamente corrosivo.
+color: "c8d94a"
+viscosity: 0.6
+temperature: 0.4
+heatCapacity: 0.6
+flammability: 0
+explosiveness: 0
