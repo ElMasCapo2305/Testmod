@@ -1,0 +1,42 @@
+type: GenericCrafter
+name: Generador de Ácido Sulfúrico
+description: Quema azufre con el oxigeno del aire, utilizando metodo de contacto para obtener ácido sulfúrico.
+size: 2
+health: 200
+category: crafting
+hasItems: true
+hasLiquids: true
+hasPower: true
+craftTime: 120
+liquidCapacity: 40
+
+outputLiquid: {
+  liquid: acido-sulfurico
+  amount: 0.15
+}
+
+consumes: {
+  power: 1
+  items: [
+    azufre/1
+  ]
+  liquid: {
+    liquid: aire
+    amount: 0.1
+  }
+}
+
+requirements: [
+  lead/60
+  metaglass/40
+  graphite/40
+]
+
+research: {
+  parent: extractor-aire
+  requirements: [
+    lead/300
+    metaglass/200
+    graphite/200
+  ]
+}
