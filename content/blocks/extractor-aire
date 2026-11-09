@@ -17,7 +17,7 @@ requirements: [
 ]
 
 consumes: {
-  power: 1.5
+  power: 0.75
 }
 
 research: {
