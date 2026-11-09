@@ -6,3 +6,20 @@ hasAtmosphere: true
 atmosphereColor: "6fa8dc"
 iconColor: "6fa8dc"
 alwaysUnlocked: true
+
+mesh: {
+  type: NoiseMesh
+  seed: 5
+  divisions: 6
+  radius: 1
+  octaves: 4
+  persistence: 0.5
+  scale: 1
+  mag: 0.15
+  color1: "3b5a7a"
+  color2: "9fc5e8"
+  colorOct: 3
+  colorPersistence: 0.5
+  colorScale: 1.5
+  colorThreshold: 0.5
+}
