@@ -1,5 +1,6 @@
 name: Orpheon
 parent: sun
+minZoom: 0.8
 radius: 0.8
 sectorSize: 2
 hasAtmosphere: true
