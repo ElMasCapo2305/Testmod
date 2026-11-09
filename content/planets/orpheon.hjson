@@ -1,7 +1,7 @@
 name: Planeta Rioxita
 parent: sun
-radius: 0.7
-sectorSize: 1
+radius: 0.8
+sectorSize: 2
 hasAtmosphere: true
 atmosphereColor: "6fa8dc"
 iconColor: "6fa8dc"
