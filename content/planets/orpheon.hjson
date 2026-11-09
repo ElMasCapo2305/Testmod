@@ -15,7 +15,7 @@ mesh: {
   octaves: 4
   persistence: 0.5
   scale: 1
-  mag: 0.5
+  mag: 1
   color1: "3b5a7a"
   color2: "9fc5e8"
   colorOct: 3
