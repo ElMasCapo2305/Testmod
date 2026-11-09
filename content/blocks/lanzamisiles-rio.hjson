@@ -42,7 +42,7 @@ drawer: {
     {
       type: RegionPart
       suffix: -cargado
-      progress: charge
+      progress: warup
       color: "ffffff00"
       colorTo: "ffffffff"
     }
