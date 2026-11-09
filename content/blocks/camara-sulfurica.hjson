@@ -7,7 +7,7 @@ category: crafting
 hasItems: true
 hasLiquids: true
 hasPower: true
-craftTime: 90
+craftTime: 180
 liquidCapacity: 50
 
 requirements: [
@@ -24,13 +24,13 @@ consumes: {
   ]
   liquid: {
     liquid: aire
-    amount: 3
+    amount: 0.25
   }
 }
 
 outputLiquid: {
   liquid: acido-sulfurico
-  amount: 1
+  amount: 0.5
 }
 
 research: {
