@@ -11,11 +11,11 @@ mesh: {
   type: NoiseMesh
   seed: 5
   divisions: 6
-  radius: 0.9
+  radius: 0.85
   octaves: 4
   persistence: 0.5
   scale: 1
-  mag: 0.15
+  mag: 0.25
   color1: "3b5a7a"
   color2: "9fc5e8"
   colorOct: 3
