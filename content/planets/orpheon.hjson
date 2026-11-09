@@ -16,8 +16,8 @@ mesh: {
   persistence: 0.5
   scale: 1
   mag: 0.5
-  color1: "3b5a7a"
-  color2: "9fc5e8"
+  color1: "3ca370"
+  color2: "186abc"
   colorOct: 3
   colorPersistence: 0.5
   colorScale: 1.5
