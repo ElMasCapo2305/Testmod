@@ -1,8 +1,11 @@
+type: liquid
 name: Ácido Sulfúrico
-description: Líquido altamente corrosivo.
+description: Líquido altamente corrosivo utilizado en producción de recursos complejos y armas corrosivas.
 color: "c8d94a"
 viscosity: 0.6
 temperature: 0.4
 heatCapacity: 0.6
 flammability: 0
 explosiveness: 0
+radioactivity: 0
+charge: 0
