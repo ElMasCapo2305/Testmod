@@ -14,7 +14,8 @@ requirements: [
   rioxita-refinada/100
   titanium 50
   metaglass/40
-  graphite/40
+  copper/40
+  graphite/30
 ]
 
 consumes: {
