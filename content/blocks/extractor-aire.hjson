@@ -21,7 +21,7 @@ consumes: {
 }
 
 research: {
-  parent: water-extractor
+  parent: mechanical-pump
   requirements: [
     graphite/200
     metaglass/200
