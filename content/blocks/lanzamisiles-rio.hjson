@@ -53,6 +53,7 @@ ammoTypes: {
     hitShake: 1.5
     hitEffect: blastExplosion
     despawnEffect: none
+  }
 }
 drawer: {
   type: DrawTurret
