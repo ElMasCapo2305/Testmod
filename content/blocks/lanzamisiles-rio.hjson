@@ -35,6 +35,24 @@ ammoTypes: {
     hitEffect: blastExplosion
     despawnEffect: none
   }
+  coal: {
+    type: MissileBulletType
+    damage: 30
+    splashDamagw: 300
+    splashDamageRadius: 40
+    speed: 3
+    lifetime: 70
+    width: 9
+    height: 15
+    makeFire: true
+    incendChance: 1
+    incendAmount: 4
+    incendSpread: 20
+    status: burning
+    statusDuration: 180
+    hitShake: 1.5
+    hitEffect: blastExplosion
+    despawnEffect: none
 }
 drawer: {
   type: DrawTurret
