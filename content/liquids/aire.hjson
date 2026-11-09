@@ -1,6 +1,6 @@
 type: liquid
 name: Aire
-description: Aire ambiental sin comprimir.
+description: Aire ambiental utilizado para producción de recursos complejos.
 color: "cfe8ff"
 gas: true
 viscosity: 0.2
