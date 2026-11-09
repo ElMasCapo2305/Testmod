@@ -1,41 +1,43 @@
 type: GenericCrafter
-name: Generador de Ácido Sulfúrico
+name: Cámara de Ácido Sulfúrico
 description: Quema azufre con el oxigeno del aire, utilizando metodo de contacto para obtener ácido sulfúrico.
-size: 2
+size: 3
 health: 200
 category: crafting
 hasItems: true
 hasLiquids: true
 hasPower: true
-craftTime: 120
-liquidCapacity: 40
-
-outputLiquid: {
-  liquid: acido-sulfurico
-  amount: 0.15
-}
-
-consumes: {
-  power: 1
-  items: [
-    azufre/1
-  ]
-  liquid: {
-    liquid: aire
-    amount: 0.1
-  }
-}
+craftTime: 90
+liquidCapacity: 50
 
 requirements: [
-  lead/60
+  rioxita-refinada/100
+  titanium 50
   metaglass/40
   graphite/40
 ]
 
+consumes: {
+  power: 3
+  items: [
+    azufre/3
+  ]
+  liquid: {
+    liquid: aire
+    amount: 3
+  }
+}
+
+outputLiquid: {
+  liquid: acido-sulfurico
+  amount: 1
+}
+
 research: {
   parent: extractor-aire
   requirements: [
-    lead/300
+    rioxita-refinada/450
+    titanium/300
     metaglass/200
     graphite/200
   ]
