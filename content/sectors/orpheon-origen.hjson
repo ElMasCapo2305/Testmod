@@ -1,5 +1,6 @@
-planet: planeta-rioxita
+planet: orpheon
 sector: 0
 difficulty: 6
 captureWave: 0
 requireUnlock: false
+addStartingItems: true
