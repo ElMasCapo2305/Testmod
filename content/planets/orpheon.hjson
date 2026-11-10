@@ -1,8 +1,10 @@
 name: Orpheon
+generator: PlanetGenerator
+sectorSize: 2
+startSector: 0
 parent: sun
 minZoom: 0.7
 radius: 0.8
-sectorSize: 2
 hasAtmosphere: true
 atmosphereColor: "185088"
 iconColor: "185088"
