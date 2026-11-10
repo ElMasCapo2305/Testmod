@@ -24,8 +24,13 @@ consumes: {
 outputItem: rioxita/2
 
 research: {
-  parent: silicon-smelter
-  requirements: [
-    copper/1500
+  root: true
+  name: "Orpheon"
+  planet: "orpheon"
+  alwaysUnlocked: true
+  children: [
+    conveyor
+    mechanical-drill
+    fabricador-rioxita
   ]
 }
