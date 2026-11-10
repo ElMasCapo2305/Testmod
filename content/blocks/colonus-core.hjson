@@ -1,0 +1,15 @@
+type: CoreBlock
+name: Núcleo Colonus
+description: El núcleo de 6ta categoría utilizado en Orpheon.
+size: 3
+health: 1200
+itemCapacity: 3500
+unitCapModifier: 8
+unitType: beta
+
+research: {
+  root: true
+  name: "Orpheon"
+  planet: "orpheon"
+  alwaysUnlocked: true
+}
