@@ -4,7 +4,7 @@ description: Extrae minerales básicos del suelo.
 category: production
 size: 2
 tier: 2
-drillTime: 150
+drillTime: 600
 alwaysUnlocked: true
 
 requirements: [
