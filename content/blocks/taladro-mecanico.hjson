@@ -1,0 +1,17 @@
+type: Drill
+name: Taladro Mecánico Orpheano
+description: Extrae minerales básicos del suelo.
+category: production
+size: 2
+tier: 2
+drillTime: 300
+alwaysUnlocked: true
+
+requirements: [
+  copper/12
+]
+
+research: {
+  parent: colonus-core
+  planet: orpheon
+}
