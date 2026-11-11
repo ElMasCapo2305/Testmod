@@ -2,7 +2,7 @@ type: Conveyor
 name: Cinta transportadora
 description: Cinta transportadora simple hecha de cobre y otros recursos básicos. Sirve para transportar recursos de forma lenta hacia el núcleo o circuitos.
 size: 1
-health: 150
+health: 100
 speed: 0.035f 
 displayedSpeed: 5
 itemCapacity: 5
