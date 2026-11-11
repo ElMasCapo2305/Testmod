@@ -3,6 +3,12 @@ name: Shooter
 description: Torreta de medio alcance, hecha para ser util, acepta recursos muy variados como munición.
 size: 2
 health: 1000
+reload: 12
+range: 240
+inaccuracy: 10
+rotateSpeed: 10
+maxAmmo: 30
+ammoPerShot: 1
 
 requirements: [
   copper/50
