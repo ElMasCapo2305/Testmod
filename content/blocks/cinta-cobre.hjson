@@ -1,0 +1,18 @@
+type: Duct
+name: Cinta transportadora
+description: Cinta transportadora simple hecha de cobre y otros recursos básicos. Sirve para transportar recursos de forma lenta hacia el núcleo o circuitos.
+size: 1
+health: 150
+speed: 15
+itemCapacity: 5
+
+requirements: [
+  copper/2
+]
+
+research: {
+  parent: taladro-mecanico
+  requirements: [
+    copper/50
+  ]
+}
