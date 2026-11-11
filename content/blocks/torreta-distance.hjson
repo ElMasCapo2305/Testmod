@@ -2,7 +2,7 @@ type: ItemTurret
 name: Distance
 description: La torreta Distance es una defensa de largo alcance y gran daño, capaz de destruir enemigos tanto terrestres como aereos.
 size: 3
-health: 2200
+health: 1000
 reload: 225
 shake: 4.5
 recoil: 5
