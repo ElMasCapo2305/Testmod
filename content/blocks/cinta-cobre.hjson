@@ -5,7 +5,7 @@ size: 1
 health: 100
 speed: 0.035f 
 displayedSpeed: 5
-itemCapacity: 5
+itemCapacity: 3
 
 requirements: [
   copper/2
