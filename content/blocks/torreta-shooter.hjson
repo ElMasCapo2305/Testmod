@@ -1,0 +1,10 @@
+type: ItemTurret
+name: Shooter
+description: Torreta de medio alcance, hecha para ser util, acepta recursos muy variados como munición.
+size: 2
+health: 1000
+
+requirements: [
+  copper/50
+  lead/50
+]
