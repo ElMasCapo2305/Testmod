@@ -26,11 +26,12 @@ mesh: {
   colorScale: 1
   colors: [
     "ffffff"
-    "ffffff"
-    "dbe9ff"
-    "8fb8ff"
-    "5a7dff"
-    "b9a6ff"
+    "1f3dff"
+    "3a5bff"
+    "5a3dff"
+    "7a5cff"
+    "2f7bff"
+    "9fb8ff"
     "ffffff"
   ]
 }
