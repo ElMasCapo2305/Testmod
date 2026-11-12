@@ -30,15 +30,15 @@ mesh: {
 }
 
 cloudMesh: {
-	type: multiMesh
+	type: MultiMesh
 	meshes: [
 		{
 			type: HexSkyMesh
 			seed: 11
 			speed: 0.15
 			radius: 0.13
-			divisions: 5 
-			color "f2d9c4bf"
+			divisions: 5
+			color: "f2d9c4bf"
 			octaves: 2
 			persistence: 0.45
 			scl: 0.9
@@ -49,8 +49,8 @@ cloudMesh: {
 			seed: 1
 			speed: 0.6
 			radius: 0.16
-			divisions: 5 
-			color "e8b89cbf"
+			divisions: 5
+			color: "e8b89cbf"
 			octaves: 2
 			persistence: 0.45
 			scl: 1
