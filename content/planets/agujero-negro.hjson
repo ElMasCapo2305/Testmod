@@ -7,7 +7,7 @@ orbitSpacing: 8
 radius: 4
 bloom: true
 hasAtmosphere: true
-atmosphereColor: "FF6E00FF"
+atmosphereColor: "6BFFE9FF"
 atmosphereRadIn: 0.02
 atmosphereRadOut: 0.3
 drawOrbit: false
