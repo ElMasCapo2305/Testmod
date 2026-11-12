@@ -1,5 +1,4 @@
-
- type: Junction
+type: Junction
 name: Cruce
 description: Cruza dos líneas de objetos sin que se mezclen.
 category: distribution
