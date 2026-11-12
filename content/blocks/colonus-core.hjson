@@ -14,5 +14,6 @@ research: {
   alwaysUnlocked: true 
   children: [
     copper
+    conveyor
   ] 
 }
