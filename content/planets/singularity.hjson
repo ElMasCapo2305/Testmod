@@ -1,7 +1,7 @@
 localizedName: "Singularity"
 parent: "sun"
 solarSystem: "singularity"
-orbitRadius: 5000
+orbitRadius: 10000
 orbitSpacing: 8
 radius: 4
 bloom: true
