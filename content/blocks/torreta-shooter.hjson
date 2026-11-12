@@ -4,7 +4,7 @@ description: Torreta de medio alcance, hecha para ser util, acepta recursos muy 
 size: 2
 health: 1000
 reload: 12
-range: 240
+range: 200
 inaccuracy: 10
 rotateSpeed: 10
 maxAmmo: 30
@@ -14,3 +14,18 @@ requirements: [
   copper/50
   lead/50
 ]
+
+ammoTypes: {
+  copper: {
+    type: BasicBulletType
+    speed: 12
+    damage: 25
+    ammoMultiplier: 2
+    lifetime: 17
+    width: 10
+    height: 16
+    frontColor: ffffff
+    backColor: ff5555
+    shootEffect: shootBig
+    smokeEffect: shootBigSmoke
+  }
