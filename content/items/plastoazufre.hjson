@@ -1,2 +1,11 @@
 type: Item
-name Plastoazufre
+name: Plastoazufre
+description: Material sintético de diversas utilidades, elaborado con petroleo y azufre. 
+cost: 1
+color: "D2B036FF"
+explosiveness: 0.1
+flammability: 0.3
+radioactivity: 0
+charge: 0
+hardness: 1
+research: rioxita
