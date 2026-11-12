@@ -17,6 +17,26 @@ visible: true
 iconColor: "ff8c1a"
 icon: "planet"
 
+mesh: {
+  type: SunMesh
+  divisions: 3
+  octaves: 4
+  persistence: 0.6
+  scl: 1
+  pow: 1
+  mag: 0.5
+  colorScale: 1
+  colors: [
+    "000000"
+    "000000"
+    "000000"
+    "050302"
+    "1a0d05"
+    "ff8c1a"
+    "ffe0b0"
+  ]
+}
+
 cloudMesh: {
   type: HexSkyMesh
   seed: 3
