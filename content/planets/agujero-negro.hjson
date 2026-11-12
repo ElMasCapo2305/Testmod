@@ -1,7 +1,7 @@
 generator: PlanetGenerator
 localizedName: "Singularity"
 parent: "sun"
-solarSystem: "singularity"
+solarSystem: "agujero-negro"
 orbitRadius: 10000
 orbitSpacing: 8
 radius: 4
