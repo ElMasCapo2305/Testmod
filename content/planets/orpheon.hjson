@@ -1,4 +1,4 @@
-"name": "Orpheon"
+name: "Orpheon"
 generator: PlanetGenerator
 sectorSize: 2
 startSector: 0
