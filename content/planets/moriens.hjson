@@ -2,7 +2,7 @@ generator: PlanetGenerator
 localizedName: "Moriens"
 parent: "sun"
 solarSystem: "moriens"
-orbitRadius: 8000
+orbitRadius: 10000
 orbitSpacing: 8
 radius: 5
 bloom: true
@@ -12,7 +12,7 @@ tidalLock: false
 rotateTime: 600
 accessible: true
 visible: true
-iconColor: "e03a00"
+iconColor: "ff4d00"
 icon: "planet"
 
 mesh: {
@@ -25,25 +25,12 @@ mesh: {
   mag: 0.5
   colorScale: 1
   colors: [
-    "000000"
-    "1a0000"
-    "3d0500"
     "7a0f00"
     "b81d00"
     "e03a00"
+    "ff4d00"
     "ff6a1a"
+    "ff8c3a"
+    "ffb066"
   ]
-}
-
-cloudMesh: {
-  type: HexSkyMesh
-  seed: 3
-  speed: 1.5
-  radius: 0.1
-  divisions: 5
-  color: "120300dd"
-  octaves: 4
-  persistence: 0.5
-  scl: 4
-  thresh: 0.55
 }
