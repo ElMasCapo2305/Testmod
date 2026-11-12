@@ -7,7 +7,7 @@ orbitSpacing: 8
 radius: 4
 bloom: true
 hasAtmosphere: true
-atmosphereColor: "6BFFE9FF"
+atmosphereColor: "ff8c1a"
 atmosphereRadIn: 0.02
 atmosphereRadOut: 0.3
 drawOrbit: false
@@ -43,7 +43,7 @@ cloudMesh: {
   speed: 10
   radius: 0.12
   divisions: 6
-  color: "ffa733ff"
+  color: "6BFFE9FF"
   octaves: 4
   persistence: 0.5
   scl: 3
