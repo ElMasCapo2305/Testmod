@@ -1,0 +1,19 @@
+
+ type: Junction
+name: Cruce
+description: Cruza dos líneas de objetos sin que se mezclen.
+category: distribution
+health: 30
+speed: 26
+capacity: 6
+buildCostMultiplier: 6
+underBullets: true
+
+requirements: [
+  copper/2
+]
+
+research: {
+  parent: cinta-cobre
+  planet: orpheon
+}
