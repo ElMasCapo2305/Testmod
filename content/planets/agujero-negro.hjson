@@ -45,6 +45,6 @@ cloudMesh: {
   color: "bfd4ffff"
   octaves: 4
   persistence: 0.5
-  scl: 6
+  scl: 14
   thresh: 0.7
 }
