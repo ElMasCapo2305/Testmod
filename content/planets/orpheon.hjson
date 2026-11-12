@@ -56,3 +56,6 @@ cloudMesh: {
 			persistence: 0.45
 			scl: 1
 			thresh: 0.41
+		}
+	]
+}
