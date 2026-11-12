@@ -1,0 +1,33 @@
+generator: PlanetGenerator
+localizedName: "Cyan Sun"
+mesh: {
+type: SunMesh
+divisions: 3
+octaves: 4
+persistence: 0.6
+scl: 1
+pow: 1
+mag: 0.5
+colorScale: 1
+colors: [
+49f6f6ff
+8fffff
+aaffffff
+58f5f5ff
+36ffdaff
+ffffff
+]
+}
+solarSystem: "bluesun"
+parent: "sun"
+orbitRadius: 10000
+accessible: true
+radius: 4
+visible: true
+hasAtmosphere: false
+bloom: true
+orbitSpacing: 8
+drawOrbit: false
+tidalLock: true
+iconColor: "49f6f6"
+icon: "planet"
