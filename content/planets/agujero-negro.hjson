@@ -1,18 +1,18 @@
 generator: PlanetGenerator
-localizedName: "Púlsar"
+localizedName: "Moriens"
 parent: "sun"
-solarSystem: "agujero-negro"
-orbitRadius: 10000
+solarSystem: "moriens"
+orbitRadius: 8000
 orbitSpacing: 8
-radius: 1.5
+radius: 5
 bloom: true
 hasAtmosphere: false
 drawOrbit: false
 tidalLock: false
-rotateTime: 40
+rotateTime: 600
 accessible: true
 visible: true
-iconColor: "9ec1ff"
+iconColor: "e03a00"
 icon: "planet"
 
 mesh: {
@@ -25,26 +25,25 @@ mesh: {
   mag: 0.5
   colorScale: 1
   colors: [
-    "ffffff"
-    "1f3dff"
-    "3a5bff"
-    "5a3dff"
-    "7a5cff"
-    "2f7bff"
-    "9fb8ff"
-    "ffffff"
+    "000000"
+    "1a0000"
+    "3d0500"
+    "7a0f00"
+    "b81d00"
+    "e03a00"
+    "ff6a1a"
   ]
 }
 
 cloudMesh: {
   type: HexSkyMesh
   seed: 3
-  speed: 12
-  radius: 0.06
-  divisions: 6
-  color: "bfd4ffff"
+  speed: 1.5
+  radius: 0.1
+  divisions: 5
+  color: "120300dd"
   octaves: 4
   persistence: 0.5
-  scl: 2
-  thresh: 0.7
+  scl: 4
+  thresh: 0.55
 }
