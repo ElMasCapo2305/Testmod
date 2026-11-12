@@ -4,7 +4,7 @@ sectorSize: 2
 startSector: 0
 parent: moriens
 solarSystem: moriens
-orbitRadius: 50
+orbitRadius: 80
 minZoom: 0.7
 radius: 0.8
 hasAtmosphere: true
