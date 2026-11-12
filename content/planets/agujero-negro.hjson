@@ -1,5 +1,5 @@
 generator: PlanetGenerator
-localizedName: "Singularity"
+localizedName: "agujero-negro"
 parent: "sun"
 solarSystem: "agujero-negro"
 orbitRadius: 10000
