@@ -1,20 +1,18 @@
 generator: PlanetGenerator
-localizedName: "Singularity"
+localizedName: "Púlsar"
 parent: "sun"
 solarSystem: "agujero-negro"
 orbitRadius: 10000
 orbitSpacing: 8
-radius: 4
+radius: 1.5
 bloom: true
-hasAtmosphere: true
-atmosphereColor: "ff8c1a"
-atmosphereRadIn: 0.02
-atmosphereRadOut: 0.3
+hasAtmosphere: false
 drawOrbit: false
-tidalLock: true
+tidalLock: false
+rotateTime: 40
 accessible: true
 visible: true
-iconColor: "ff8c1a"
+iconColor: "9ec1ff"
 icon: "planet"
 
 mesh: {
@@ -27,25 +25,25 @@ mesh: {
   mag: 0.5
   colorScale: 1
   colors: [
-    "000000"
-    "000000"
-    "000000"
-    "050302"
-    "1a0d05"
-    "ff8c1a"
-    "ffe0b0"
+    "ffffff"
+    "ffffff"
+    "dbe9ff"
+    "8fb8ff"
+    "5a7dff"
+    "b9a6ff"
+    "ffffff"
   ]
 }
 
 cloudMesh: {
   type: HexSkyMesh
   seed: 3
-  speed: 10
-  radius: 0.12
+  speed: 12
+  radius: 0.06
   divisions: 6
-  color: "6BFFE9FF"
+  color: "bfd4ffff"
   octaves: 4
   persistence: 0.5
-  scl: 3
-  thresh: 0.6
+  scl: 6
+  thresh: 0.7
 }
