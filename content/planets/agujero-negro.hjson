@@ -17,22 +17,32 @@ visible: true
 iconColor: "ff8c1a"
 icon: "planet"
 
-mesh: {
-  type: SunMesh
-  divisions: 3
-  octaves: 4
-  persistence: 0.6
-  scl: 1
-  pow: 1
-  mag: 0.5
-  colorScale: 1
-  colors: [
-    "000000"
-    "000000"
-    "000000"
-    "050302"
-    "1a0d05"
-    "ff8c1a"
-    "ffe0b0"
+cloudMesh: {
+  type: MultiMesh
+  meshes: [
+    {
+      type: HexSkyMesh
+      seed: 3
+      speed: 6
+      radius: 0.12
+      divisions: 6
+      color: "ffa733ff"
+      octaves: 4
+      persistence: 0.5
+      scl: 3
+      thresh: 0.6
+    }
+    {
+      type: HexSkyMesh
+      seed: 8
+      speed: 4
+      radius: 0.2
+      divisions: 6
+      color: "ffd9a0cc"
+      octaves: 4
+      persistence: 0.5
+      scl: 4
+      thresh: 0.65
+    }
   ]
 }
