@@ -1,3 +1,4 @@
+generator: PlanetGenerator
 localizedName: "Singularity"
 parent: "sun"
 solarSystem: "singularity"
