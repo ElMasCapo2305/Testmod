@@ -8,7 +8,7 @@ bloom: true
 hasAtmosphere: false
 drawOrbit: false
 tidalLock: true
-accessible: false
+accessible: true
 visible: true
 iconColor: "ff8c1a"
 icon: "planet"
