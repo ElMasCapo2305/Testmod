@@ -20,12 +20,12 @@ icon: "planet"
 cloudMesh: {
   type: HexSkyMesh
   seed: 3
-  speed: 7
-  radius: 0.15
-  divisions: 5
-  color: "ff8c1aff"
-  octaves: 3
+  speed: 6
+  radius: 0.12
+  divisions: 6
+  color: "ffa733ff"
+  octaves: 4
   persistence: 0.5
-  scl: 2
-  thresh: 0.55
+  scl: 3
+  thresh: 0.6
 }
