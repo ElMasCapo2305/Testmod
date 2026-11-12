@@ -55,4 +55,4 @@ cloudMesh: {
 			octaves: 2
 			persistence: 0.45
 			scl: 1
-			thresh: 0.45
+			thresh: 0.41
