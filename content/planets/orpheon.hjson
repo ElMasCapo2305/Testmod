@@ -2,8 +2,8 @@ name: Orpheon
 generator: PlanetGenerator
 sectorSize: 2
 startSector: 0
-parent: singularity 
-solarSystem: singularity 
+parent: agujero-negro 
+solarSystem: agujero-negro 
 orbitRadius: 30
 minZoom: 0.7
 radius: 0.8
