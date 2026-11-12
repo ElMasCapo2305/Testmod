@@ -6,7 +6,10 @@ orbitRadius: 10000
 orbitSpacing: 8
 radius: 4
 bloom: true
-hasAtmosphere: false
+hasAtmosphere: true
+atmosphereColor: "ff8c1a"
+atmosphereRadIn: 0.02
+atmosphereRadOut: 0.3
 drawOrbit: false
 tidalLock: true
 accessible: true
@@ -32,4 +35,17 @@ mesh: {
     "ff8c1a"
     "ffe0b0"
   ]
+}
+
+cloudMesh: {
+  type: HexSkyMesh
+  seed: 3
+  speed: 1.2
+  radius: 0.15
+  divisions: 5
+  color: "ff8c1a99"
+  octaves: 3
+  persistence: 0.5
+  scl: 2
+  thresh: 0.55
 }
