@@ -47,4 +47,6 @@ ammoTypes: {
 	}
 }
 
-research:
+research: {
+  parent: colonus-core
+  planet: orpheon
