@@ -1,60 +1,36 @@
-name: Orpheon
 generator: PlanetGenerator
-sectorSize: 2
-startSector: 0
-parent: moriens 
-solarSystem: moriens 
-orbitRadius: 30
-minZoom: 0.7
-radius: 0.8
-hasAtmosphere: true
-atmosphereColor: "185088"
-iconColor: "185088"
-alwaysUnlocked: true
+localizedName: "Moriens"
+parent: "sun"
+solarSystem: "moriens"
+orbitRadius: 8000
+orbitSpacing: 8
+radius: 5
+bloom: true
+hasAtmosphere: false
+drawOrbit: false
+tidalLock: false
+rotateTime: 600
+accessible: true
+visible: true
+iconColor: "ff4d00"
+icon: "planet"
 
 mesh: {
-  type: NoiseMesh
-  seed: 5
-  divisions: 6
-  radius: 0.8
-  octaves: 5
-  persistence: 0.5
-  scale: 1
-  mag: 0.6
-  color1: "3ca370"
-  color2: "186abc"
-  colorOct: 3
-  colorPersistence: 0.5
-  colorScale: 1.5
-  colorThreshold: 0.5
-}
-
-cloudMesh: {
-  type: MultiMesh
-  meshes: [
-    {
-      type: HexSkyMesh
-      seed: 11
-      speed: 0.15
-      radius: 0.13
-      divisions: 5
-      color: "f2d9c4bf"
-      octaves: 2
-      persistence: 0.45
-      scl: 0.9
-      thresh: 0.38
-    }
-    {
-      type: HexSkyMesh
-      seed: 1
-      speed: 0.6
-      radius: 0.16
-      divisions: 5
-      color: "e8b89cbf"
-      octaves: 2
-      persistence: 0.45
-      scl: 1
-      thresh: 0.41
-    }
+  type: SunMesh
+  divisions: 3
+  octaves: 4
+  persistence: 0.6
+  scl: 1
+  pow: 1
+  mag: 0.5
+  colorScale: 1
+  colors: [
+    "7a0f00"
+    "b81d00"
+    "e03a00"
+    "ff4d00"
+    "ff6a1a"
+    "ff8c3a"
+    "ffb066"
   ]
 }
