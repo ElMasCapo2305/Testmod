@@ -11,6 +11,6 @@ requirements: [
 ]
 
 research: {
-  parent: cinta-cobre
+  parent: cruce
   planet: orpheon
 }
