@@ -40,7 +40,7 @@ mesh: {
 cloudMesh: {
   type: HexSkyMesh
   seed: 3
-  speed: 6
+  speed: 10
   radius: 0.12
   divisions: 6
   color: "ffa733ff"
