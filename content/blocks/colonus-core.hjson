@@ -11,5 +11,8 @@ research: {
   root: true
   name: "Orpheon"
   planet: "orpheon"
-  alwaysUnlocked: true
+  alwaysUnlocked: true 
+  children: [
+    copper
+  ] 
 }
