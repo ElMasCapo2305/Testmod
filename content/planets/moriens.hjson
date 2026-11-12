@@ -2,7 +2,7 @@ generator: PlanetGenerator
 localizedName: "Moriens"
 parent: "sun"
 solarSystem: "moriens"
-orbitRadius: 10000
+orbitRadius: 8000
 orbitSpacing: 8
 radius: 5
 bloom: true
