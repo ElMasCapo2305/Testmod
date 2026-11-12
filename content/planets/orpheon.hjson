@@ -13,8 +13,7 @@ iconColor: "185088"
 alwaysUnlocked: true
 
 mesh: {
-  type:
-  NoiseMesh
+  type: NoiseMesh
   seed: 5
   divisions: 6
   radius: 0.8
