@@ -31,20 +31,20 @@ ammoTypes: {
   }
 
 	plastoazufre: {
-	  type: BasicBulletType
+    type: BasicBulletType
     speed: 10
-    damage: 15
+    damage: 10
     ammoMultiplier: 2
     lifetime: 20
     width: 10
-		height: 16
+    height: 16
     frontColor: ffffff
     backColor: ff5555
-		status: corroded
-		statusDuration: 120
+    status: corroded
+    statusDuration: 150
     shootEffect: shootBig
     smokeEffect: shootBigSmoke
 	}
 }
 
-research: 
+research:
