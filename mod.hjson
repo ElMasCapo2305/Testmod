@@ -1,6 +1,6 @@
 name: "rioxitamod"
-displayName: "Rioxita Mod"
+displayName: "OrpheonMod"
 author: "ElMasCapo"
 description: "Un mod que añade un nuevo mineral, junto con recursos, torretas y otras varias cosas."
-version: "1.0.3"
+version: "1.0.4"
 minGameVersion: "146"
