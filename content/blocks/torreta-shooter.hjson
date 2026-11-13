@@ -50,6 +50,9 @@ ammoTypes: {
 research: {
   parent: colonus-core
   planet: orpheon
+  requirements: [
+    cooper/250
+  ]
 }
 
 category: turret
