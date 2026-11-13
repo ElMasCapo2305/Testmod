@@ -51,3 +51,5 @@ research: {
   parent: colonus-core
   planet: orpheon
 }
+
+category: turret
