@@ -12,8 +12,4 @@ research: {
   name: "Orpheon"
   planet: "orpheon"
   alwaysUnlocked: true 
-  children: [
-    copper
-    conveyor
-  ] 
 }
