@@ -12,7 +12,7 @@ requirements: [
 ]
 category: defense
 research: {
-  parent: colonus-core
+  parent: lead-wall-2x2
   requirements: [
     plastoazufre/250
   ]
