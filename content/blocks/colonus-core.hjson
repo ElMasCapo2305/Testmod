@@ -14,7 +14,8 @@ research: {
   alwaysUnlocked: true 
   children: [
     taladro-mecanico
-		torreta-shooter
-		azufre
-		cinta-cobre
+    torreta-shooter
+    azufre
+    cinta-cobre
+  ]
 }
