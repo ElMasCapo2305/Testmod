@@ -1,0 +1,18 @@
+type: Wall
+name: Muro de plomo
+description: Muro básico de plomo, defensa barata contra proyectiles enemigos.
+size: 1
+health: 320
+
+requirements: [
+  lead/6
+]
+
+category: defense
+
+research: {
+parent: colonus-core
+  requirements: [
+    lead/100
+  ]
+}
