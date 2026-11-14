@@ -1,0 +1,16 @@
+type: Wall
+name: Muro de rioxita refinada grande
+description: Una barricada gruesa de 2x2 construida con placas de Rioxita Refinada para resistir ataques masivos.
+size: 2
+health: 2800
+requirements: [
+  rioxita-refinada/24
+]
+category: defense
+research: {
+  parent: rioxita-wall-1x1
+  requirements: [
+    rioxita/50
+    rioxita-refinada/150
+  ]
+}
