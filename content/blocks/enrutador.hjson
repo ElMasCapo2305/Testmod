@@ -13,4 +13,7 @@ requirements: [
 research: {
   parent: cruce
   planet: orpheon
+  requirements: [
+    copper/75
+  ]
 }
