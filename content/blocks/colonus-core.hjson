@@ -12,4 +12,9 @@ research: {
   name: "Orpheon"
   planet: "orpheon"
   alwaysUnlocked: true 
+  children: [
+    taladro-mecanico
+		torreta-shooter
+		azufre
+		cinta-cobre
 }
