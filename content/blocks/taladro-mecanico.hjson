@@ -13,5 +13,7 @@ requirements: [
 
 research: {
   parent: colonus-core
-  planet: orpheon
+  requirements: [
+    copper/100
+  ]
 }
