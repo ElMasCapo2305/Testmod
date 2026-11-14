@@ -11,7 +11,7 @@ requirements: [
 category: defense
 
 research: {
-parent: colonus-core
+parent: torreta-shooter
   requirements: [
     lead/100
   ]
