@@ -1,0 +1,19 @@
+type: Wall
+name: Muro de plastoazufre
+description: Muro de plastoazufre, capaz de absorber energía de ataques enemigos.
+size: 1
+health: 400
+absorbLasers: true
+insulated: true
+armor: 10
+
+requirements: [
+  plastoazufre/6
+]
+category: defense
+research: {
+  parent: colonus-core
+  requirements: [
+    plastoazufre/250
+  ]
+}
