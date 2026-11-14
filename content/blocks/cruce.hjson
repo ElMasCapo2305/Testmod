@@ -16,6 +16,6 @@ research: {
   parent: cinta-cobre
   planet: orpheon
   requirements: [
-    copper/20
+    copper/50
   ]
 }
