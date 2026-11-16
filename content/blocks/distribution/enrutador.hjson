@@ -1,0 +1,18 @@
+type: Router
+name: Enrutador
+description: Reparte los objetos entrantes hasta en tres direcciones.
+category: distribution
+speed: 8
+buildCostMultiplier:4 
+underBullets: true
+
+requirements: [
+  copper/3
+]
+
+research: {
+  parent: cruce
+  requirements: [
+    copper/75
+  ]
+}
