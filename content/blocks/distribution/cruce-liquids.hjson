@@ -1,0 +1,15 @@
+type: LiquidJunction
+name: Cruce de Líquidos
+description: Cruza dos líneas de líquido sin que se mezclen.
+category: liquid
+solid: false
+underBullets: true
+
+requirements: [
+  graphite/4
+  metaglass/8
+]
+
+research: {
+  parent: cinta-cobre
+}
