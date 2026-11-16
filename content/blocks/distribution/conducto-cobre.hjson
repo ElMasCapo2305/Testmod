@@ -1,0 +1,15 @@
+type: Conduit
+name: Conducto
+description: Transporta líquidos.
+category: liquid
+health: 45
+liquidCapacity: 10
+leaks: true
+
+requirements: [
+  copper/1
+]
+
+research: {
+  parent: colonus-core
+}
