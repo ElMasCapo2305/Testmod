@@ -12,4 +12,6 @@ requirements: [
 
 research: {
   parent: cinta-cobre
+  requirements: [
+    copper/100
 }
