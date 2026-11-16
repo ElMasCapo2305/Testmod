@@ -11,5 +11,5 @@ requirements: [
 ]
 
 research: {
-  parent: colonus-core
+  parent: cinta-cobre
 }
