@@ -6,10 +6,12 @@ solid: false
 underBullets: true
 
 requirements: [
-  graphite/4
-  metaglass/8
+  copper/12
 ]
 
 research: {
   parent: conducto-cobre
+  requirements: [
+    copper/100
+  ]
 }
