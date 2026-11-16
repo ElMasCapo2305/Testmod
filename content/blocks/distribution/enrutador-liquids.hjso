@@ -1,0 +1,16 @@
+type: LiquidRouter
+name: Enrutador de Líquidos
+description: Reparte el líquido entre sus salidas.
+category: liquid
+liquidCapacity: 20
+solid: false
+underBullets: true
+
+requirements: [
+  graphite/4
+  metaglass/2
+]
+
+research: {
+  parent: cruce-liquids
+}
