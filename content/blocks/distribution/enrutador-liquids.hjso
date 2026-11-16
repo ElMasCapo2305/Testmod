@@ -7,10 +7,11 @@ solid: false
 underBullets: true
 
 requirements: [
-  graphite/4
-  metaglass/2
+  copper/6
 ]
 
 research: {
   parent: cruce-liquids
+  requirements:[
+    copper/100
 }
