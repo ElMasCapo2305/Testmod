@@ -11,5 +11,5 @@ requirements: [
 ]
 
 research: {
-  parent: cinta-cobre
+  parent: conducto-cobre
 }
