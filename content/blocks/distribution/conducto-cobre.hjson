@@ -7,7 +7,7 @@ liquidCapacity: 10
 leaks: true
 
 requirements: [
-  copper/1
+  copper/5
 ]
 
 research: {
