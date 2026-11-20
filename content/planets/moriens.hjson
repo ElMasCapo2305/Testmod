@@ -1,5 +1,5 @@
 generator: PlanetGenerator
-localizedName: "Moriens"
+localizedName: "SkibidiToilet"
 parent: "sun"
 solarSystem: "moriens"
 orbitRadius: 8000
